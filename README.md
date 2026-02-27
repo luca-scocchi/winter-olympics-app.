@@ -40,6 +40,14 @@ The app provides **narrative-style responses**, accessible to beginners and enth
 3. Add new features or improve the AI integration  
 4. Submit a pull request  
 
+## Documentation
+
+For detailed documentation, see the `docs/` folder:
+
+- [Overview](docs/OVERVIEW.md) – Purpose, audience, and key features  
+- [API Integration](docs/API_INTEGRATION.md) – How to connect the app to AI services  
+- [Usage Guide](docs/USAGE_GUIDE.md) – How to run, update, and test the app
+
 ## License
 
 MIT License
