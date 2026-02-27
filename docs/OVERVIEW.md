@@ -21,3 +21,22 @@ It uses a **role-prompting AI** to act as the ultimate Winter Olympics expert.
 - Narrative, storytelling-style answers  
 - Official sources cited whenever possible  
 - Fun facts and strategic insights included
+
+### Live Demo
+
+Check out the web app live here:  
+[Winter Olympics Expert Web App](https://luca-scocchi.github.io/winter-olympics-app./)
+
+### Screenshots
+
+![Homepage](doc/screenshots/homepage.png)  
+![Query Interaction](doc/screenshots/query.png)  
+![Statistics & Records](doc/screenshots/stats.png)
+
+### Documentation
+
+All additional documentation, usage instructions, and design notes can be found in the `doc/` folder:
+
+- `doc/README.md` – Overview of the documentation  
+- `doc/screenshots/` – Folder containing all screenshots of the app  
+- `doc/design_notes.md` – Notes about design choices, AI prompts, and structure
