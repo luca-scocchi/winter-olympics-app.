@@ -12,7 +12,7 @@ The app provides **narrative-style responses**, accessible to beginners and enth
 
 ## Screenshot
 
-![Winter Olympics Expert App Screenshot](winter_olimpit.png)
+![Winter Olympics Expert App Screenshot](winter_olimpic.png)
 
 ## Features
 
