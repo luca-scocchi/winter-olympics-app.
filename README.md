@@ -10,6 +10,10 @@ Users can ask questions and receive detailed, engaging, and accurate answers abo
 
 The app provides **narrative-style responses**, accessible to beginners and enthusiasts alike, citing official sources whenever possible.
 
+## Screenshot
+
+![Winter Olympics Expert App Screenshot](winter_olimpit.png)
+
 ## Features
 
 - Query-based interaction with the AI expert  
