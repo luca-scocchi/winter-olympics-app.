@@ -51,3 +51,6 @@ For detailed documentation, see the `docs/` folder:
 ## License
 
 MIT License
+
+## LINK
+https://luca-scocchi.github.io/winter-olympics-app./
